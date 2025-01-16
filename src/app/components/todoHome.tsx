@@ -1,5 +1,5 @@
 import React from 'react';
-import { ChevronDown, Calendar, Bell, Layout, Hash, Plus, Search, Home } from 'lucide-react';
+import { Calendar, Bell, Layout, Hash, Plus, Search, Home } from 'lucide-react';
 
 interface Task {
   id: string;
